@@ -1,3 +1,5 @@
 # EasingDemo
 
-UIKit private animation-curve options demo
+UIKit private animation-curve options demo.
+
+![Capture](./Capture/capture.gif)
